@@ -1,0 +1,12 @@
+--
+-- Tablo döküm verisi `options`
+--
+CREATE TABLE IF NOT EXISTS `options` (
+  `option_id` int(11) NOT NULL AUTO_INCREMENT,
+  `option_key` varchar(100) NOT NULL,
+  `option_val` text NOT NULL,
+  PRIMARY KEY (`option_id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 ;
+
+INSERT INTO `options` (`option_id`, `option_key`, `option_val`) VALUES
+(1, 'active_plugins', 'a:0:{}');
