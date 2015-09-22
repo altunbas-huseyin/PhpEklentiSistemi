@@ -22,7 +22,6 @@ Kullanım şekilleri ve örnek bir eklenti.
  * Author Name: Batuhan AYDIN
  * Author Mail: batuhanyusufaydin[et]gmail[dot]com
  * Description: Bu eklenti aracılığı ile site ayarlarınızı düzenleyebilirsiniz.
- * URL: http://www.sesusera.blogspot.com.tr
 */
 
 // Eklenti aktif hale getiriliyorsa yapılacak işlem
